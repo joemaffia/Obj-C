@@ -1,0 +1,25 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                SaveOnDesk = id; 
+                StartStopRendButton = id; 
+                publishService = id; 
+                serviceClicked = id; 
+            }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                DataView = id; 
+                SaveOnButton = id; 
+                ipField = id; 
+                portField = id; 
+                serviceList = id; 
+                textField = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
