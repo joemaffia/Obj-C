@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {sendMessage = id; }; 
+            CLASS = ChatWindow; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textView = id; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
