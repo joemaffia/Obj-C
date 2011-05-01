@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {Convert = id; }; 
+            CLASS = Controller; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {bridge = id; fieldCurrTempo = id; fieldDesTempo = id; fieldDetCents = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {Calculate = id; }; 
+            CLASS = ConvController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
